@@ -1,3 +1,3 @@
 started practicing python
-learned some basics
+learned some basics 
    
